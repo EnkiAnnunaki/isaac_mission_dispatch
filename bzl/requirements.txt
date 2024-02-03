@@ -4,6 +4,6 @@ psycopg[binary]==3.0.15
 pyyaml==6.0
 fastapi==0.75.2
 uvicorn==0.17.6
-requests==2.27.1
+requests==2.31.0
 py_trees==2.1.6
 
